@@ -1,0 +1,7 @@
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\bin\Debug\Adonet_Labs.exe.config
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\bin\Debug\Adonet_Labs.exe
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\bin\Debug\Adonet_Labs.pdb
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\obj\Debug\Adonet_Labs.csproj.AssemblyReference.cache
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\obj\Debug\Adonet_Labs.csproj.CoreCompileInputs.cache
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\obj\Debug\Adonet_Labs.exe
+D:\Adonetfront\Adonet_Labs\Adonet_Labs\obj\Debug\Adonet_Labs.pdb
